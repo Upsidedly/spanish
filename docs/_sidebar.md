@@ -1,4 +1,8 @@
 <!-- _sidebar.md -->
 
 - Overview
-  - [Home](ReadME.md)
+  - [Home](README.md)
+  
+- Verbs
+  - [Overview](verbs/README.md)
+  - [Masterlist](verbs/masterlist.md)

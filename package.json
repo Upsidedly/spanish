@@ -4,10 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "docsify serve ./docs"
+    "serve": "docsify serve ./docs",
+    "verbs": "node functions/verbs.js"
   },
   "keywords": [],
   "author": "upsided",
   "license": "GNU General Public License v3.0",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "@types/node": "^17.0.31"
+  }
 }
