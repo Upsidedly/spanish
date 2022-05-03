@@ -4,3 +4,26 @@ to hug
 limpiar
 to clean
 
+cocinar
+to cook
+
+bailar
+to dance
+
+llevar
+to bring
+
+hablar
+to speak
+
+contestar
+to answer
+
+tomar
+to take
+
+pasar
+to pass
+
+regar
+to water

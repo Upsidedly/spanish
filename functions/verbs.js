@@ -10,7 +10,7 @@ const masterlist = (await fs.readFile('./data/verbmasterlist.txt', 'utf-8')).spl
     return {
         name: verbdata.split('\n')[0].toLowerCase(),
         desc: verbdata.split('\n')[1],
-        usage: verbdata.split('\n').slice(2),
+        usage: verbdata.split('\n').slice(2).length > 0 ? verbdata.split('\n').slice(2) : null,
     }
 }).sort((a, b) => {
     return a.name.toUpperCase().localeCompare(b.name.toUpperCase());
@@ -32,16 +32,15 @@ for (const verb of masterlist) {
         '- El/Ella/Usted: **' + verb.name.toLowerCase().slice(0, -2) + 'a**',
         '- Nosotros: **' + verb.name.toLowerCase().slice(0, -2) + 'amos**',
         '- Ustedes/Ellos/Ellas: **' + verb.name.toLowerCase().slice(0, -2) + 'an**',
-        '',
-        '## Usage' + verb.usage.length === 1 ? 's' : '',
-        verb.usage.join('\n')
-
     ]
+
+    if (verb.usage) {
+        tempfile.push('', '## Usage', verb.usage.join('\n'));
+    }
+
     await fs.writeFile('./docs/verbs/mlist/' + verb.name + '.md', tempfile.join('\n'))
 
-    fileData.push(`- [${verb.name}](verbs/mlist/${verb.name}.md)`);
-    fileData.push(`  ${verb.desc}`);
-    fileData.push('');
+    fileData.push(`- [${verb.name}](verbs/mlist/${verb.name}.md)`, `  ${verb.desc}`, '');
 }
 
 fs.writeFile('./docs/verbs/masterlist.md', fileData.join('\n'))
