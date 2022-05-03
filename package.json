@@ -1,0 +1,13 @@
+{
+  "name": "spanish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "docsify serve ./docs"
+  },
+  "keywords": [],
+  "author": "upsided",
+  "license": "GNU General Public License v3.0",
+  "type": "module"
+}
