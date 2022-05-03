@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-# [Spanish](READDME.md)
+# [Spanish](README.md)
 
 > idk man im kinda lost in espanol rn
 
