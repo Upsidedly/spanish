@@ -1,6 +1,13 @@
 # Spanish Verbs Masterlist
-> Generated at 3/4/2022
+> Generated at 4/4/2022
   
+## A
+- [arreglar](verbs/mlist/arreglar.md)
+  to fix
+
+- [ayudar](verbs/mlist/ayudar.md)
+  to help/aid
+
 ## B
 - [bailar](verbs/mlist/bailar.md)
   to dance
@@ -20,6 +27,9 @@
   to speak
 
 ## L
+- [lavar](verbs/mlist/lavar.md)
+  to wash
+
 - [limpiar](verbs/mlist/limpiar.md)
   to clean
 
