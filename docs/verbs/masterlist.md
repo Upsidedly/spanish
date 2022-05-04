@@ -3,7 +3,7 @@
   
 ## A
 - [arreglar](verbs/mlist/arreglar.md)
-  to fix
+  to tidy
 
 - [ayudar](verbs/mlist/ayudar.md)
   to help/aid
@@ -13,6 +13,9 @@
   to dance
 
 ## C
+- [caminar](verbs/mlist/caminar.md)
+  to walk
+
 - [cocinar](verbs/mlist/cocinar.md)
   to cook
 
@@ -21,6 +24,9 @@
 
 - [contestar](verbs/mlist/contestar.md)
   to answer
+
+- [cortar](verbs/mlist/cortar.md)
+  to cut
 
 ## H
 - [hablar](verbs/mlist/hablar.md)
@@ -43,6 +49,12 @@
 ## P
 - [pasar](verbs/mlist/pasar.md)
   to pass
+
+- [pasear](verbs/mlist/pasear.md)
+  to go for a walk/to walk
+
+- [planchar](verbs/mlist/planchar.md)
+  to iron
 
 ## R
 - [regar](verbs/mlist/regar.md)

@@ -1,7 +1,7 @@
 # arreglar
 
 ## Definition
-to fix
+to tidy
 
 ## Conjugation
 

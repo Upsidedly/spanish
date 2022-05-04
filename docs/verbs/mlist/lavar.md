@@ -13,3 +13,5 @@ to wash
 
 ## Usage
 - lavar el coche \- wash the car
+- lavar los platos \- wash the dishes
+- lavar la ropa \- wash the clothes
