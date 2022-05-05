@@ -16,6 +16,9 @@
 - [caminar](verbs/mlist/caminar.md)
   to walk
 
+- [cantar](verbs/mlist/cantar.md)
+  to sing
+
 - [cocinar](verbs/mlist/cocinar.md)
   to cook
 
@@ -27,6 +30,13 @@
 
 - [cortar](verbs/mlist/cortar.md)
   to cut
+
+## E
+- [escuchar](verbs/mlist/escuchar.md)
+  to listen
+
+- [estudiar](verbs/mlist/estudiar.md)
+  to study
 
 ## H
 - [hablar](verbs/mlist/hablar.md)
@@ -46,6 +56,10 @@
 - [mirar](verbs/mlist/mirar.md)
   to hug
 
+## N
+- [necesitar](verbs/mlist/necesitar.md)
+  to need
+
 ## P
 - [pasar](verbs/mlist/pasar.md)
   to pass
@@ -56,14 +70,26 @@
 - [planchar](verbs/mlist/planchar.md)
   to iron
 
+- [preguntar](verbs/mlist/preguntar.md)
+  to ask
+
 ## R
 - [regar](verbs/mlist/regar.md)
   to water
 
 ## T
+- [terminar](verbs/mlist/terminar.md)
+  to finish
+
 - [tomar](verbs/mlist/tomar.md)
   to take
 
+- [trabajar](verbs/mlist/trabajar.md)
+  to work
+
 ## V
+- [visitar](verbs/mlist/visitar.md)
+  to visit
+
 - [vivir](verbs/mlist/vivir.md)
   to live
