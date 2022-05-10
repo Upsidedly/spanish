@@ -1,5 +1,5 @@
 # Spanish Verbs Masterlist
-> Generated at 4/4/2022
+> Generated at 10/4/2022
   
 ## A
 - [arreglar](verbs/mlist/arreglar.md)
@@ -37,6 +37,9 @@
 
 - [estudiar](verbs/mlist/estudiar.md)
   to study
+
+- [explicar](verbs/mlist/explicar.md)
+  to explain
 
 ## H
 - [hablar](verbs/mlist/hablar.md)
