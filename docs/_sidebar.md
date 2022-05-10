@@ -10,3 +10,5 @@
 
 - Topics
   - [Cinco de Mayo](topics/cincodemayo.md)
+
+- [Assignments](assignments.md)

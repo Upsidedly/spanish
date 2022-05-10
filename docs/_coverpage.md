@@ -2,6 +2,6 @@
 
 # [Spanish](README.md)
 
-> idk man im kinda lost in espanol rn
+> spanish stuff for 1-2
 
-by matt will 😼
+by Matthew Williams
