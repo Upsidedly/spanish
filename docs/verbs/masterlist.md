@@ -76,6 +76,9 @@
 - [preguntar](verbs/mlist/preguntar.md)
   to ask
 
+- [preparar](verbs/mlist/preparar.md)
+  to prepare
+
 ## R
 - [regar](verbs/mlist/regar.md)
   to water
