@@ -12,6 +12,9 @@
 - [bailar](verbs/mlist/bailar.md)
   to dance
 
+- [bajar](verbs/mlist/bajar.md)
+  to lower
+
 ## C
 - [caminar](verbs/mlist/caminar.md)
   to walk
