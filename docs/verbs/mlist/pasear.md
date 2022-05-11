@@ -13,3 +13,4 @@ to go for a walk/to walk
 
 ## Usage
 - pasear el perro \- walk the dog
+not much other context tbh

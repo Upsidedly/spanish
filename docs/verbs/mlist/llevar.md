@@ -1,7 +1,7 @@
 # llevar
 
 ## Definition
-to bring
+to carry or to wear
 
 ## Conjugation
 

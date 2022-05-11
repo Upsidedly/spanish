@@ -10,3 +10,6 @@ to pass
 - El/Ella/Usted: **pasa**
 - Nosotros: **pasamos**
 - Ustedes/Ellos/Ellas: **pasan**
+
+## Usage
+- pasar la aspiradora \- to vacuum
