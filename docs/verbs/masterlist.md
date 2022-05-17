@@ -6,6 +6,9 @@
   undefined
 
 ## A
+- [abrir](verbs/mlist/abrir.md)
+  to open
+
 - [amar](verbs/mlist/amar.md)
   to love
 
@@ -63,9 +66,15 @@
 - [dejar](verbs/mlist/dejar.md)
   to leave
 
+- [dormir](verbs/mlist/dormir.md)
+  to sleep
+
 ## E
 - [enseñar](verbs/mlist/enseñar.md)
   to teach
+
+- [escribir](verbs/mlist/escribir.md)
+  to write
 
 - [escuchar](verbs/mlist/escuchar.md)
   to listen
@@ -137,6 +146,12 @@
 ## S
 - [sacar](verbs/mlist/sacar.md)
   to take out
+
+- [sacudir](verbs/mlist/sacudir.md)
+  to shake
+
+- [sacudir el polvo](verbs/mlist/sacudir el polvo.md)
+  to dust
 
 ## T
 - [terminar](verbs/mlist/terminar.md)
