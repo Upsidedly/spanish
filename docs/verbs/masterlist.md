@@ -1,10 +1,6 @@
 # Spanish Verbs Masterlist
 > Generated at 17/4/2022
   
-## 
-- [](verbs/mlist/.md)
-  undefined
-
 ## A
 - [abrir](verbs/mlist/abrir.md)
   to open
@@ -58,6 +54,9 @@
 
 - [conversar](verbs/mlist/conversar.md)
   to converse
+
+- [correr](verbs/mlist/correr.md)
+  to run
 
 - [cortar](verbs/mlist/cortar.md)
   to cut
@@ -149,9 +148,6 @@
 
 - [sacudir](verbs/mlist/sacudir.md)
   to shake
-
-- [sacudir el polvo](verbs/mlist/sacudir el polvo.md)
-  to dust
 
 ## T
 - [terminar](verbs/mlist/terminar.md)
