@@ -5,11 +5,7 @@
 to sleep
 
 ## Conjugation
-- Yo: **duermo**
+- Yo: **duermo**,- Tú: **duermes**,- Él/Ella/Usted: **duerme**,- Nosotros: **dormimos**,- Ellos/Ellas: **duerman**
 
 ## Usage
-yo:duermo
-tú:duermes
-él/ella/usted:duerme
-nosotros:dormimos
-ellos/ellas:duerman
+yo:duermo tú:duermes él/ella/usted:duerme nosotros:dormimos ellos/ellas:duerman
