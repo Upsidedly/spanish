@@ -6,7 +6,7 @@ to live
 ## Conjugation
 
 - Yo: **vivo**
-- Tu: **vives**
-- El/Ella/Usted: **vive**
+- Tú: **vives**
+- Él/Ella/Usted: **vive**
 - Nosotros: **vivimos**
 - Ustedes/Ellos/Ellas: **viven**

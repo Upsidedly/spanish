@@ -6,7 +6,7 @@ to converse
 ## Conjugation
 
 - Yo: **converso**
-- Tu: **conversas**
-- El/Ella/Usted: **conversa**
+- Tú: **conversas**
+- Él/Ella/Usted: **conversa**
 - Nosotros: **conversamos**
 - Ustedes/Ellos/Ellas: **conversan**

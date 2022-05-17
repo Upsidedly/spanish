@@ -6,7 +6,7 @@ to lower
 ## Conjugation
 
 - Yo: **bajo**
-- Tu: **bajas**
-- El/Ella/Usted: **baja**
+- Tú: **bajas**
+- Él/Ella/Usted: **baja**
 - Nosotros: **bajamos**
 - Ustedes/Ellos/Ellas: **bajan**

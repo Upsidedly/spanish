@@ -6,7 +6,7 @@ to send
 ## Conjugation
 
 - Yo: **mando**
-- Tu: **mandas**
-- El/Ella/Usted: **manda**
+- Tú: **mandas**
+- Él/Ella/Usted: **manda**
 - Nosotros: **mandamos**
 - Ustedes/Ellos/Ellas: **mandan**

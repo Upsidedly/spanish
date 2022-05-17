@@ -6,7 +6,7 @@ to sign
 ## Conjugation
 
 - Yo: **firmo**
-- Tu: **firmas**
-- El/Ella/Usted: **firma**
+- Tú: **firmas**
+- Él/Ella/Usted: **firma**
 - Nosotros: **firmamos**
 - Ustedes/Ellos/Ellas: **firman**

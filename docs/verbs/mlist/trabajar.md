@@ -6,7 +6,7 @@ to work
 ## Conjugation
 
 - Yo: **trabajo**
-- Tu: **trabajas**
-- El/Ella/Usted: **trabaja**
+- Tú: **trabajas**
+- Él/Ella/Usted: **trabaja**
 - Nosotros: **trabajamos**
 - Ustedes/Ellos/Ellas: **trabajan**

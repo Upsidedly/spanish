@@ -6,7 +6,7 @@ to read
 ## Conjugation
 
 - Yo: **leo**
-- Tu: **lees**
-- El/Ella/Usted: **lee**
+- Tú: **lees**
+- Él/Ella/Usted: **lee**
 - Nosotros: **leemos**
 - Ustedes/Ellos/Ellas: **leen**

@@ -1,12 +1,15 @@
 # dormir
 
 ## Definition
+
 to sleep
 
 ## Conjugation
+- Yo: **duermo**
 
-- Yo: **dormo**
-- Tu: **dormes**
-- El/Ella/Usted: **dorme**
-- Nosotros: **dormimos**
-- Ustedes/Ellos/Ellas: **dormen**
+## Usage
+yo:duermo
+tú:duermes
+él/ella/usted:duerme
+nosotros:dormimos
+ellos/ellas:duerman

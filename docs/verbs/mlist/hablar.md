@@ -6,7 +6,7 @@ to speak
 ## Conjugation
 
 - Yo: **hablo**
-- Tu: **hablas**
-- El/Ella/Usted: **habla**
+- Tú: **hablas**
+- Él/Ella/Usted: **habla**
 - Nosotros: **hablamos**
 - Ustedes/Ellos/Ellas: **hablan**

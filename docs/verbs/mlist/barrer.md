@@ -6,7 +6,7 @@ to sweep
 ## Conjugation
 
 - Yo: **barro**
-- Tu: **barres**
-- El/Ella/Usted: **barre**
+- Tú: **barres**
+- Él/Ella/Usted: **barre**
 - Nosotros: **barremos**
 - Ustedes/Ellos/Ellas: **barren**

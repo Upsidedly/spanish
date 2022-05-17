@@ -6,7 +6,7 @@ to hug
 ## Conjugation
 
 - Yo: **miro**
-- Tu: **miras**
-- El/Ella/Usted: **mira**
+- Tú: **miras**
+- Él/Ella/Usted: **mira**
 - Nosotros: **miramos**
 - Ustedes/Ellos/Ellas: **miran**

@@ -6,8 +6,8 @@ to water
 ## Conjugation
 
 - Yo: **rego**
-- Tu: **regas**
-- El/Ella/Usted: **rega**
+- Tú: **regas**
+- Él/Ella/Usted: **rega**
 - Nosotros: **regamos**
 - Ustedes/Ellos/Ellas: **regan**
 

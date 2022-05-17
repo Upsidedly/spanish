@@ -6,7 +6,7 @@ to finish
 ## Conjugation
 
 - Yo: **termino**
-- Tu: **terminas**
-- El/Ella/Usted: **termina**
+- Tú: **terminas**
+- Él/Ella/Usted: **termina**
 - Nosotros: **terminamos**
 - Ustedes/Ellos/Ellas: **terminan**

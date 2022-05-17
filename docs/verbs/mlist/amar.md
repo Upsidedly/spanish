@@ -6,7 +6,7 @@ to love
 ## Conjugation
 
 - Yo: **amo**
-- Tu: **amas**
-- El/Ella/Usted: **ama**
+- Tú: **amas**
+- Él/Ella/Usted: **ama**
 - Nosotros: **amamos**
 - Ustedes/Ellos/Ellas: **aman**

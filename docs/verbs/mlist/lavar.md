@@ -6,8 +6,8 @@ to wash
 ## Conjugation
 
 - Yo: **lavo**
-- Tu: **lavas**
-- El/Ella/Usted: **lava**
+- Tú: **lavas**
+- Él/Ella/Usted: **lava**
 - Nosotros: **lavamos**
 - Ustedes/Ellos/Ellas: **lavan**
 

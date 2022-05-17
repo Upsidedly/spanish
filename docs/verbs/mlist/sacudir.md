@@ -6,8 +6,8 @@ to shake
 ## Conjugation
 
 - Yo: **sacudo**
-- Tu: **sacudes**
-- El/Ella/Usted: **sacude**
+- Tú: **sacudes**
+- Él/Ella/Usted: **sacude**
 - Nosotros: **sacudimos**
 - Ustedes/Ellos/Ellas: **sacuden**
 

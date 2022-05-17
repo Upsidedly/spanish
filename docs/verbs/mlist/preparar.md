@@ -6,7 +6,7 @@ to prepare
 ## Conjugation
 
 - Yo: **preparo**
-- Tu: **preparas**
-- El/Ella/Usted: **prepara**
+- Tú: **preparas**
+- Él/Ella/Usted: **prepara**
 - Nosotros: **preparamos**
 - Ustedes/Ellos/Ellas: **preparan**

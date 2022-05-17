@@ -6,7 +6,7 @@ to cook
 ## Conjugation
 
 - Yo: **cocino**
-- Tu: **cocinas**
-- El/Ella/Usted: **cocina**
+- Tú: **cocinas**
+- Él/Ella/Usted: **cocina**
 - Nosotros: **cocinamos**
 - Ustedes/Ellos/Ellas: **cocinan**

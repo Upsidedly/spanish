@@ -6,8 +6,8 @@ to go for a walk/to walk
 ## Conjugation
 
 - Yo: **paseo**
-- Tu: **paseas**
-- El/Ella/Usted: **pasea**
+- Tú: **paseas**
+- Él/Ella/Usted: **pasea**
 - Nosotros: **paseamos**
 - Ustedes/Ellos/Ellas: **pasean**
 

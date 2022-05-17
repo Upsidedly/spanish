@@ -6,8 +6,8 @@ to pass
 ## Conjugation
 
 - Yo: **paso**
-- Tu: **pasas**
-- El/Ella/Usted: **pasa**
+- Tú: **pasas**
+- Él/Ella/Usted: **pasa**
 - Nosotros: **pasamos**
 - Ustedes/Ellos/Ellas: **pasan**
 

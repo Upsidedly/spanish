@@ -6,8 +6,8 @@ to cut
 ## Conjugation
 
 - Yo: **corto**
-- Tu: **cortas**
-- El/Ella/Usted: **corta**
+- Tú: **cortas**
+- Él/Ella/Usted: **corta**
 - Nosotros: **cortamos**
 - Ustedes/Ellos/Ellas: **cortan**
 

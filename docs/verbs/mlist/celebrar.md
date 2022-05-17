@@ -6,7 +6,7 @@ to celebrate
 ## Conjugation
 
 - Yo: **celebro**
-- Tu: **celebras**
-- El/Ella/Usted: **celebra**
+- Tú: **celebras**
+- Él/Ella/Usted: **celebra**
 - Nosotros: **celebramos**
 - Ustedes/Ellos/Ellas: **celebran**

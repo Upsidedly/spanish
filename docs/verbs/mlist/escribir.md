@@ -6,7 +6,7 @@ to write
 ## Conjugation
 
 - Yo: **escribo**
-- Tu: **escribes**
-- El/Ella/Usted: **escribe**
+- Tú: **escribes**
+- Él/Ella/Usted: **escribe**
 - Nosotros: **escribimos**
 - Ustedes/Ellos/Ellas: **escriben**

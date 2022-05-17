@@ -6,7 +6,7 @@ to buy
 ## Conjugation
 
 - Yo: **compro**
-- Tu: **compras**
-- El/Ella/Usted: **compra**
+- Tú: **compras**
+- Él/Ella/Usted: **compra**
 - Nosotros: **compramos**
 - Ustedes/Ellos/Ellas: **compran**

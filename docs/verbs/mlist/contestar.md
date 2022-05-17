@@ -6,7 +6,7 @@ to answer
 ## Conjugation
 
 - Yo: **contesto**
-- Tu: **contestas**
-- El/Ella/Usted: **contesta**
+- Tú: **contestas**
+- Él/Ella/Usted: **contesta**
 - Nosotros: **contestamos**
 - Ustedes/Ellos/Ellas: **contestan**

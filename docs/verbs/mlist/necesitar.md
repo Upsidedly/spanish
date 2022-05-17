@@ -6,7 +6,7 @@ to need
 ## Conjugation
 
 - Yo: **necesito**
-- Tu: **necesitas**
-- El/Ella/Usted: **necesita**
+- Tú: **necesitas**
+- Él/Ella/Usted: **necesita**
 - Nosotros: **necesitamos**
 - Ustedes/Ellos/Ellas: **necesitan**

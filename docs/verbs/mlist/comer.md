@@ -6,7 +6,7 @@ to eat
 ## Conjugation
 
 - Yo: **como**
-- Tu: **comes**
-- El/Ella/Usted: **come**
+- Tú: **comes**
+- Él/Ella/Usted: **come**
 - Nosotros: **comemos**
 - Ustedes/Ellos/Ellas: **comen**

@@ -6,8 +6,8 @@ to take out
 ## Conjugation
 
 - Yo: **saco**
-- Tu: **sacas**
-- El/Ella/Usted: **saca**
+- Tú: **sacas**
+- Él/Ella/Usted: **saca**
 - Nosotros: **sacamos**
 - Ustedes/Ellos/Ellas: **sacan**
 

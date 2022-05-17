@@ -6,7 +6,7 @@ to help/aid
 ## Conjugation
 
 - Yo: **ayudo**
-- Tu: **ayudas**
-- El/Ella/Usted: **ayuda**
+- Tú: **ayudas**
+- Él/Ella/Usted: **ayuda**
 - Nosotros: **ayudamos**
 - Ustedes/Ellos/Ellas: **ayudan**

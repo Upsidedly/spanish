@@ -6,7 +6,7 @@ to run
 ## Conjugation
 
 - Yo: **corro**
-- Tu: **corres**
-- El/Ella/Usted: **corre**
+- Tú: **corres**
+- Él/Ella/Usted: **corre**
 - Nosotros: **corremos**
 - Ustedes/Ellos/Ellas: **corren**
