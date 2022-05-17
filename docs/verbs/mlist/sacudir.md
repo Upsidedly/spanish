@@ -16,4 +16,4 @@ to shake
 ## Definition
 to dust
 ## Conjugation
-Same as original noun
+[Same as original noun](sacudir?id=conjugation)
