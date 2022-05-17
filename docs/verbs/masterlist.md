@@ -1,5 +1,5 @@
 # Spanish Verbs Masterlist
-> Generated at 11/4/2022
+> Generated at 17/4/2022
   
 ## 
 - [](verbs/mlist/.md)
@@ -21,6 +21,12 @@
 
 - [bajar](verbs/mlist/bajar.md)
   to lower
+
+- [barrer](verbs/mlist/barrer.md)
+  to sweep
+
+- [beber](verbs/mlist/beber.md)
+  to drink
 
 - [buscar](verbs/mlist/buscar.md)
   to look for
@@ -81,6 +87,9 @@
 ## L
 - [lavar](verbs/mlist/lavar.md)
   to wash
+
+- [leer](verbs/mlist/leer.md)
+  to read
 
 - [limpiar](verbs/mlist/limpiar.md)
   to clean
