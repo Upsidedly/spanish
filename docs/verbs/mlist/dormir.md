@@ -12,4 +12,3 @@ to sleep
 - Ellos/Ellas: **duerman**
 
 ## Usage
-yo:duermo tú:duermes él/ella/usted:duerme nosotros:dormimos ellos/ellas:duerman
