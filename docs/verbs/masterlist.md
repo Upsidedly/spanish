@@ -1,5 +1,5 @@
 # Spanish Verbs Masterlist
-> Generated at 17/4/2022
+> Generated at 23/4/2022
   
 ## A
 - [abrir](verbs/mlist/abrir.md)
@@ -10,6 +10,9 @@
 
 - [arreglar](verbs/mlist/arreglar.md)
   to tidy
+
+- [asistir](verbs/mlist/asistir.md)
+  to attend
 
 - [ayudar](verbs/mlist/ayudar.md)
   to help/aid
@@ -61,9 +64,24 @@
 - [cortar](verbs/mlist/cortar.md)
   to cut
 
+- [cubrir](verbs/mlist/cubrir.md)
+  to cover
+
 ## D
+- [decidir](verbs/mlist/decidir.md)
+  to decide
+
 - [dejar](verbs/mlist/dejar.md)
   to leave
+
+- [describir](verbs/mlist/describir.md)
+  to describe
+
+- [descubrir](verbs/mlist/descubrir.md)
+  to discover
+
+- [dividir](verbs/mlist/dividir.md)
+  to divide
 
 - [dormir](verbs/mlist/dormir.md)
   to sleep
@@ -116,7 +134,14 @@
 - [necesitar](verbs/mlist/necesitar.md)
   to need
 
+## O
+- [omitir](verbs/mlist/omitir.md)
+  to omit
+
 ## P
+- [partir](verbs/mlist/partir.md)
+  to depart
+
 - [pasar](verbs/mlist/pasar.md)
   to pass
 
@@ -148,6 +173,9 @@
 
 - [sacudir](verbs/mlist/sacudir.md)
   to shake
+
+- [subrir](verbs/mlist/subrir.md)
+  to raise
 
 ## T
 - [terminar](verbs/mlist/terminar.md)
