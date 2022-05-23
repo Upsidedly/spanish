@@ -12,4 +12,5 @@ to pass
 - Ustedes/Ellos/Ellas: **pasan**
 
 ## Usage
+
 - pasar la aspiradora \- to vacuum

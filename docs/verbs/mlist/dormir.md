@@ -10,5 +10,3 @@ to sleep
 - Él/Ella/Usted: **duerme**
 - Nosotros: **dormimos**
 - Ellos/Ellas: **duerman**
-
-## Usage

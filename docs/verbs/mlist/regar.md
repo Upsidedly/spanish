@@ -12,4 +12,5 @@ to water
 - Ustedes/Ellos/Ellas: **regan**
 
 ## Usage
+
 - regar las plantas \- water the plants

@@ -12,6 +12,7 @@ to shake
 - Ustedes/Ellos/Ellas: **sacuden**
 
 ## Usage
+
 # sacudir el polvo
 ## Definition
 to dust

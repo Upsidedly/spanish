@@ -12,4 +12,5 @@ to take out
 - Ustedes/Ellos/Ellas: **sacan**
 
 ## Usage
+
 - sacar la basura \- take out the garbage

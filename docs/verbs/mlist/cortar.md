@@ -12,4 +12,5 @@ to cut
 - Ustedes/Ellos/Ellas: **cortan**
 
 ## Usage
+
 cortar el césped \- cut the grass/mow the lawn
