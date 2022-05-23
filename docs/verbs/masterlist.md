@@ -161,6 +161,9 @@
   to prepare
 
 ## R
+- [recibir](verbs/mlist/recibir.md)
+  to receive
+
 - [regar](verbs/mlist/regar.md)
   to water
 
