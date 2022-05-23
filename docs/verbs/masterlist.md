@@ -8,6 +8,9 @@
 - [amar](verbs/mlist/amar.md)
   to love
 
+- [aprender](verbs/mlist/aprender.md)
+  to learn
+
 - [arreglar](verbs/mlist/arreglar.md)
   to tidy
 
@@ -52,6 +55,9 @@
 - [comprar](verbs/mlist/comprar.md)
   to buy
 
+- [comprender](verbs/mlist/comprender.md)
+  to understand
+
 - [contestar](verbs/mlist/contestar.md)
   to answer
 
@@ -64,10 +70,19 @@
 - [cortar](verbs/mlist/cortar.md)
   to cut
 
+- [coser](verbs/mlist/coser.md)
+  to sew
+
+- [creer](verbs/mlist/creer.md)
+  to believe
+
 - [cubrir](verbs/mlist/cubrir.md)
   to cover
 
 ## D
+- [deber](verbs/mlist/deber.md)
+  to owe/ought to/should
+
 - [decidir](verbs/mlist/decidir.md)
   to decide
 
@@ -89,6 +104,9 @@
 ## E
 - [enseñar](verbs/mlist/enseñar.md)
   to teach
+
+- [esconder](verbs/mlist/esconder.md)
+  to hide
 
 - [escribir](verbs/mlist/escribir.md)
   to write
@@ -154,11 +172,17 @@
 - [platicar](verbs/mlist/platicar.md)
   to chat
 
+- [poseer](verbs/mlist/poseer.md)
+  to possess
+
 - [preguntar](verbs/mlist/preguntar.md)
   to ask
 
 - [preparar](verbs/mlist/preparar.md)
   to prepare
+
+- [prometer](verbs/mlist/prometer.md)
+  to promise
 
 ## R
 - [recibir](verbs/mlist/recibir.md)
@@ -169,6 +193,12 @@
 
 - [regresar](verbs/mlist/regresar.md)
   to go back to
+
+- [responder](verbs/mlist/responder.md)
+  to answer
+
+- [romper](verbs/mlist/romper.md)
+  to break
 
 ## S
 - [sacar](verbs/mlist/sacar.md)
@@ -191,6 +221,9 @@
   to work
 
 ## V
+- [vender](verbs/mlist/vender.md)
+  to sell
+
 - [visitar](verbs/mlist/visitar.md)
   to visit
 

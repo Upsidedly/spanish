@@ -1,0 +1,12 @@
+# esconder
+
+## Definition
+to hide
+
+## Conjugation
+
+- Yo: **escondo**
+- Tú: **escondes**
+- Él/Ella/Usted: **esconde**
+- Nosotros: **escondemos**
+- Ustedes/Ellos/Ellas: **esconden**
