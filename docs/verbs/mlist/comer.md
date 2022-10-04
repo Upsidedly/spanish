@@ -9,5 +9,5 @@ to eat
 - Tú: **comes**
 - Él/Ella/Usted: **come**
 - Nosotros: **comemos**
-- Vosotros: **coméis
+- Vosotros: **coméis**
 - Ustedes/Ellos/Ellas: **comen**

@@ -9,5 +9,5 @@ to depart
 - Tú: **partes**
 - Él/Ella/Usted: **parte**
 - Nosotros: **partimos**
-- Vosotros: **partís
+- Vosotros: **partís**
 - Ustedes/Ellos/Ellas: **parten**

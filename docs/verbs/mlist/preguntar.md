@@ -9,5 +9,5 @@ to ask
 - Tú: **preguntas**
 - Él/Ella/Usted: **pregunta**
 - Nosotros: **preguntamos**
-- Vosotros: **preguntáis
+- Vosotros: **preguntáis**
 - Ustedes/Ellos/Ellas: **preguntan**

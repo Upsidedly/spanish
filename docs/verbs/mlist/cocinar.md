@@ -9,5 +9,5 @@ to cook
 - Tú: **cocinas**
 - Él/Ella/Usted: **cocina**
 - Nosotros: **cocinamos**
-- Vosotros: **cocináis
+- Vosotros: **cocináis**
 - Ustedes/Ellos/Ellas: **cocinan**

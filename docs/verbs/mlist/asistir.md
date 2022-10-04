@@ -9,5 +9,5 @@ to attend
 - Tú: **asistes**
 - Él/Ella/Usted: **asiste**
 - Nosotros: **asistimos**
-- Vosotros: **asistís
+- Vosotros: **asistís**
 - Ustedes/Ellos/Ellas: **asisten**

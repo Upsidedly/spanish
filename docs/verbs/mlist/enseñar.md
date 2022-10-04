@@ -9,5 +9,5 @@ to teach
 - Tú: **enseñas**
 - Él/Ella/Usted: **enseña**
 - Nosotros: **enseñamos**
-- Vosotros: **enseñáis
+- Vosotros: **enseñáis**
 - Ustedes/Ellos/Ellas: **enseñan**

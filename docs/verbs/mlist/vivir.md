@@ -9,5 +9,5 @@ to live
 - Tú: **vives**
 - Él/Ella/Usted: **vive**
 - Nosotros: **vivimos**
-- Vosotros: **vivís
+- Vosotros: **vivís**
 - Ustedes/Ellos/Ellas: **viven**

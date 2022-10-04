@@ -9,5 +9,5 @@ to raise
 - Tú: **subres**
 - Él/Ella/Usted: **subre**
 - Nosotros: **subrimos**
-- Vosotros: **subrís
+- Vosotros: **subrís**
 - Ustedes/Ellos/Ellas: **subren**

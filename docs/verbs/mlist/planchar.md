@@ -9,5 +9,5 @@ to iron
 - Tú: **planchas**
 - Él/Ella/Usted: **plancha**
 - Nosotros: **planchamos**
-- Vosotros: **plancháis
+- Vosotros: **plancháis**
 - Ustedes/Ellos/Ellas: **planchan**

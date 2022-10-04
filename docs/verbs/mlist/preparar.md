@@ -9,5 +9,5 @@ to prepare
 - Tú: **preparas**
 - Él/Ella/Usted: **prepara**
 - Nosotros: **preparamos**
-- Vosotros: **preparáis
+- Vosotros: **preparáis**
 - Ustedes/Ellos/Ellas: **preparan**

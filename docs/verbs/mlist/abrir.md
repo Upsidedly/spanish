@@ -9,5 +9,5 @@ to open
 - Tú: **abres**
 - Él/Ella/Usted: **abre**
 - Nosotros: **abrimos**
-- Vosotros: **abrís
+- Vosotros: **abrís**
 - Ustedes/Ellos/Ellas: **abren**

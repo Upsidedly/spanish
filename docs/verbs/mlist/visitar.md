@@ -9,5 +9,5 @@ to visit
 - Tú: **visitas**
 - Él/Ella/Usted: **visita**
 - Nosotros: **visitamos**
-- Vosotros: **visitáis
+- Vosotros: **visitáis**
 - Ustedes/Ellos/Ellas: **visitan**

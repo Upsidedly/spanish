@@ -9,7 +9,7 @@ to cut
 - Tú: **cortas**
 - Él/Ella/Usted: **corta**
 - Nosotros: **cortamos**
-- Vosotros: **cortáis
+- Vosotros: **cortáis**
 - Ustedes/Ellos/Ellas: **cortan**
 
 ## Usage

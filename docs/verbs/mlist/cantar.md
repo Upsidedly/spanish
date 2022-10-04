@@ -9,5 +9,5 @@ to sing
 - Tú: **cantas**
 - Él/Ella/Usted: **canta**
 - Nosotros: **cantamos**
-- Vosotros: **cantáis
+- Vosotros: **cantáis**
 - Ustedes/Ellos/Ellas: **cantan**

@@ -9,5 +9,5 @@ to explain
 - Tú: **explicas**
 - Él/Ella/Usted: **explica**
 - Nosotros: **explicamos**
-- Vosotros: **explicáis
+- Vosotros: **explicáis**
 - Ustedes/Ellos/Ellas: **explican**

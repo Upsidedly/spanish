@@ -9,5 +9,5 @@ to chat
 - Tú: **platicas**
 - Él/Ella/Usted: **platica**
 - Nosotros: **platicamos**
-- Vosotros: **platicáis
+- Vosotros: **platicáis**
 - Ustedes/Ellos/Ellas: **platican**

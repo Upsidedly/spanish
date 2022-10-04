@@ -9,5 +9,5 @@ to converse
 - Tú: **conversas**
 - Él/Ella/Usted: **conversa**
 - Nosotros: **conversamos**
-- Vosotros: **conversáis
+- Vosotros: **conversáis**
 - Ustedes/Ellos/Ellas: **conversan**

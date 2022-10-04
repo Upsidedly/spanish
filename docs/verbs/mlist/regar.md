@@ -9,7 +9,7 @@ to water
 - Tú: **regas**
 - Él/Ella/Usted: **rega**
 - Nosotros: **regamos**
-- Vosotros: **regáis
+- Vosotros: **regáis**
 - Ustedes/Ellos/Ellas: **regan**
 
 ## Usage

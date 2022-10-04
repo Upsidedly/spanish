@@ -9,7 +9,7 @@ to wash
 - Tú: **lavas**
 - Él/Ella/Usted: **lava**
 - Nosotros: **lavamos**
-- Vosotros: **laváis
+- Vosotros: **laváis**
 - Ustedes/Ellos/Ellas: **lavan**
 
 ## Usage

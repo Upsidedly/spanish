@@ -9,5 +9,5 @@ to read
 - Tú: **lees**
 - Él/Ella/Usted: **lee**
 - Nosotros: **leemos**
-- Vosotros: **leéis
+- Vosotros: **leéis**
 - Ustedes/Ellos/Ellas: **leen**

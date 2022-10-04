@@ -9,7 +9,7 @@ to go for a walk/to walk
 - Tú: **paseas**
 - Él/Ella/Usted: **pasea**
 - Nosotros: **paseamos**
-- Vosotros: **paseáis
+- Vosotros: **paseáis**
 - Ustedes/Ellos/Ellas: **pasean**
 
 ## Usage

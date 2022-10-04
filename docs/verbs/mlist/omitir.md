@@ -9,5 +9,5 @@ to omit
 - Tú: **omites**
 - Él/Ella/Usted: **omite**
 - Nosotros: **omitimos**
-- Vosotros: **omitís
+- Vosotros: **omitís**
 - Ustedes/Ellos/Ellas: **omiten**

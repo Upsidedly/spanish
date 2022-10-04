@@ -9,5 +9,5 @@ to speak
 - Tú: **hablas**
 - Él/Ella/Usted: **habla**
 - Nosotros: **hablamos**
-- Vosotros: **habláis
+- Vosotros: **habláis**
 - Ustedes/Ellos/Ellas: **hablan**

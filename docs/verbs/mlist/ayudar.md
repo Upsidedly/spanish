@@ -9,5 +9,5 @@ to help/aid
 - Tú: **ayudas**
 - Él/Ella/Usted: **ayuda**
 - Nosotros: **ayudamos**
-- Vosotros: **ayudáis
+- Vosotros: **ayudáis**
 - Ustedes/Ellos/Ellas: **ayudan**

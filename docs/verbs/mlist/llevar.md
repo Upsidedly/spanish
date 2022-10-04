@@ -9,5 +9,5 @@ to carry or to wear
 - Tú: **llevas**
 - Él/Ella/Usted: **lleva**
 - Nosotros: **llevamos**
-- Vosotros: **lleváis
+- Vosotros: **lleváis**
 - Ustedes/Ellos/Ellas: **llevan**

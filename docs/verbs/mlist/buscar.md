@@ -9,5 +9,5 @@ to look for
 - Tú: **buscas**
 - Él/Ella/Usted: **busca**
 - Nosotros: **buscamos**
-- Vosotros: **buscáis
+- Vosotros: **buscáis**
 - Ustedes/Ellos/Ellas: **buscan**

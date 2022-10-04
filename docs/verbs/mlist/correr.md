@@ -9,5 +9,5 @@ to run
 - Tú: **corres**
 - Él/Ella/Usted: **corre**
 - Nosotros: **corremos**
-- Vosotros: **corréis
+- Vosotros: **corréis**
 - Ustedes/Ellos/Ellas: **corren**

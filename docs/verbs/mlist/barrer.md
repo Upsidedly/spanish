@@ -9,5 +9,5 @@ to sweep
 - Tú: **barres**
 - Él/Ella/Usted: **barre**
 - Nosotros: **barremos**
-- Vosotros: **barréis
+- Vosotros: **barréis**
 - Ustedes/Ellos/Ellas: **barren**

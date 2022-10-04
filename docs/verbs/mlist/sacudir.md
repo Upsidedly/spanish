@@ -9,7 +9,7 @@ to shake
 - Tú: **sacudes**
 - Él/Ella/Usted: **sacude**
 - Nosotros: **sacudimos**
-- Vosotros: **sacudís
+- Vosotros: **sacudís**
 - Ustedes/Ellos/Ellas: **sacuden**
 
 ## Usage

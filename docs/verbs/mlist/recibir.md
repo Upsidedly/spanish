@@ -9,5 +9,5 @@ to receive
 - Tú: **recibes**
 - Él/Ella/Usted: **recibe**
 - Nosotros: **recibimos**
-- Vosotros: **recibís
+- Vosotros: **recibís**
 - Ustedes/Ellos/Ellas: **reciben**

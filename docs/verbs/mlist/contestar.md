@@ -9,5 +9,5 @@ to answer
 - Tú: **contestas**
 - Él/Ella/Usted: **contesta**
 - Nosotros: **contestamos**
-- Vosotros: **contestáis
+- Vosotros: **contestáis**
 - Ustedes/Ellos/Ellas: **contestan**
