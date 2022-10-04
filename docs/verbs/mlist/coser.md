@@ -9,4 +9,5 @@ to sew
 - Tú: **coses**
 - Él/Ella/Usted: **cose**
 - Nosotros: **cosemos**
+- Vosotros: **coséis
 - Ustedes/Ellos/Ellas: **cosen**

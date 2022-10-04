@@ -9,4 +9,5 @@ to possess
 - Tú: **posees**
 - Él/Ella/Usted: **posee**
 - Nosotros: **poseemos**
+- Vosotros: **poseéis
 - Ustedes/Ellos/Ellas: **poseen**

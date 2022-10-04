@@ -9,4 +9,5 @@ to study
 - Tú: **estudias**
 - Él/Ella/Usted: **estudia**
 - Nosotros: **estudiamos**
+- Vosotros: **estudiáis
 - Ustedes/Ellos/Ellas: **estudian**

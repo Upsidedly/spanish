@@ -9,4 +9,5 @@ to walk
 - Tú: **caminas**
 - Él/Ella/Usted: **camina**
 - Nosotros: **caminamos**
+- Vosotros: **camináis
 - Ustedes/Ellos/Ellas: **caminan**

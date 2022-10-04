@@ -1,5 +1,5 @@
 # Spanish Verbs Masterlist
-> Generated at 23/4/2022
+> Generated at 4/9/2022
   
 ## A
 - [abrir](verbs/mlist/abrir.md)

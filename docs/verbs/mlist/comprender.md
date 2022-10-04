@@ -9,4 +9,5 @@ to understand
 - Tú: **comprendes**
 - Él/Ella/Usted: **comprende**
 - Nosotros: **comprendemos**
+- Vosotros: **comprendéis
 - Ustedes/Ellos/Ellas: **comprenden**

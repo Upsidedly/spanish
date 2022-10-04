@@ -9,4 +9,5 @@ to tidy
 - Tú: **arreglas**
 - Él/Ella/Usted: **arregla**
 - Nosotros: **arreglamos**
+- Vosotros: **arregláis
 - Ustedes/Ellos/Ellas: **arreglan**

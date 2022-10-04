@@ -9,4 +9,5 @@ to cover
 - Tú: **cubres**
 - Él/Ella/Usted: **cubre**
 - Nosotros: **cubrimos**
+- Vosotros: **cubrís
 - Ustedes/Ellos/Ellas: **cubren**

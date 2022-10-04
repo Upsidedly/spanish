@@ -12,5 +12,8 @@
 - Topics
   - [Cinco de Mayo](topics/cincodemayo.md)
   - [¿Qué tiempo hace hoy?](topics/quetiempohacehoy.md)
+  - [Noun-Adjective Agreement](topics/nounadjective.md)
+  - [Descriptions](topics/descriptions.md)
+
 
 - [Assignments](assignments.md)

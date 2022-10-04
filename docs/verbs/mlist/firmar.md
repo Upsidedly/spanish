@@ -9,4 +9,5 @@ to sign
 - Tú: **firmas**
 - Él/Ella/Usted: **firma**
 - Nosotros: **firmamos**
+- Vosotros: **firmáis
 - Ustedes/Ellos/Ellas: **firman**

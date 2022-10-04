@@ -9,4 +9,5 @@ to sell
 - Tú: **vendes**
 - Él/Ella/Usted: **vende**
 - Nosotros: **vendemos**
+- Vosotros: **vendéis
 - Ustedes/Ellos/Ellas: **venden**

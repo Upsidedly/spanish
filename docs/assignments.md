@@ -1,3 +1,3 @@
 # Current Assignments
 
-*None at the moment*
+We're done guys, it's been a good school year. Excited to know what will be coming next.

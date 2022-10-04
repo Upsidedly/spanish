@@ -9,4 +9,5 @@ to buy
 - Tú: **compras**
 - Él/Ella/Usted: **compra**
 - Nosotros: **compramos**
+- Vosotros: **compráis
 - Ustedes/Ellos/Ellas: **compran**

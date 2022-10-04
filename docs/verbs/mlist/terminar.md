@@ -9,4 +9,5 @@ to finish
 - Tú: **terminas**
 - Él/Ella/Usted: **termina**
 - Nosotros: **terminamos**
+- Vosotros: **termináis
 - Ustedes/Ellos/Ellas: **terminan**

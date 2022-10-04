@@ -9,4 +9,5 @@ to go back to
 - Tú: **regresas**
 - Él/Ella/Usted: **regresa**
 - Nosotros: **regresamos**
+- Vosotros: **regresáis
 - Ustedes/Ellos/Ellas: **regresan**

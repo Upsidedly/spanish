@@ -9,4 +9,5 @@ to celebrate
 - Tú: **celebras**
 - Él/Ella/Usted: **celebra**
 - Nosotros: **celebramos**
+- Vosotros: **celebráis
 - Ustedes/Ellos/Ellas: **celebran**

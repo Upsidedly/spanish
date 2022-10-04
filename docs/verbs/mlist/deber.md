@@ -9,4 +9,5 @@ to owe/ought to/should
 - Tú: **debes**
 - Él/Ella/Usted: **debe**
 - Nosotros: **debemos**
+- Vosotros: **debéis
 - Ustedes/Ellos/Ellas: **deben**

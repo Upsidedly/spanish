@@ -9,6 +9,7 @@ to pass
 - Tú: **pasas**
 - Él/Ella/Usted: **pasa**
 - Nosotros: **pasamos**
+- Vosotros: **pasáis
 - Ustedes/Ellos/Ellas: **pasan**
 
 ## Usage

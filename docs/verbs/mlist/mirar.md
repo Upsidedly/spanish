@@ -9,4 +9,5 @@ to hug
 - Tú: **miras**
 - Él/Ella/Usted: **mira**
 - Nosotros: **miramos**
+- Vosotros: **miráis
 - Ustedes/Ellos/Ellas: **miran**

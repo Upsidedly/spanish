@@ -9,4 +9,5 @@ to work
 - Tú: **trabajas**
 - Él/Ella/Usted: **trabaja**
 - Nosotros: **trabajamos**
+- Vosotros: **trabajáis
 - Ustedes/Ellos/Ellas: **trabajan**

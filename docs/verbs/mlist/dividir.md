@@ -9,4 +9,5 @@ to divide
 - Tú: **divides**
 - Él/Ella/Usted: **divide**
 - Nosotros: **dividimos**
+- Vosotros: **dividís
 - Ustedes/Ellos/Ellas: **dividen**

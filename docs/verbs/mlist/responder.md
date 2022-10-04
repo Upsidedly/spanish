@@ -9,4 +9,5 @@ to answer
 - Tú: **respondes**
 - Él/Ella/Usted: **responde**
 - Nosotros: **respondemos**
+- Vosotros: **respondéis
 - Ustedes/Ellos/Ellas: **responden**

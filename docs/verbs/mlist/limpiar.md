@@ -9,6 +9,7 @@ to clean
 - Tú: **limpias**
 - Él/Ella/Usted: **limpia**
 - Nosotros: **limpiamos**
+- Vosotros: **limpiáis
 - Ustedes/Ellos/Ellas: **limpian**
 
 ## Usage

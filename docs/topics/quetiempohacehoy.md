@@ -11,17 +11,6 @@
         }
     }
 
-    @keyframes hover {
-        0% {
-            transform: translateY(0em);
-        }
-        50% {
-            transform: translateY(0.5em);
-        }
-        100% {
-            transform: translateY(0em);
-        }
-    }
     .vroom {
         animation: shifting 4s ease-in-out infinite;
     }
@@ -87,11 +76,14 @@ It makes cold
 It is raining  
 `er verb`
 
-### Nieva ❄
+### It is snowing 🌨
 
-**Translation**  
-It is snowing  
+**Translation 1**  
+Nieva
 `ar verb`
+
+**Translation 2**
+Esta nevando
 
 ### Hace calor 🌡
 
@@ -116,3 +108,13 @@ It is stormy
 
 ❌ **Literal Translation**
 There is storm
+
+### Esta nublado ☁
+
+**Translation**
+It is cloudy
+
+### Hace fresco
+
+**Translation**
+It is cool

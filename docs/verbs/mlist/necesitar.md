@@ -9,4 +9,5 @@ to need
 - Tú: **necesitas**
 - Él/Ella/Usted: **necesita**
 - Nosotros: **necesitamos**
+- Vosotros: **necesitáis
 - Ustedes/Ellos/Ellas: **necesitan**

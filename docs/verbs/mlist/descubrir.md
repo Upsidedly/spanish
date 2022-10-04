@@ -9,4 +9,5 @@ to discover
 - Tú: **descubres**
 - Él/Ella/Usted: **descubre**
 - Nosotros: **descubrimos**
+- Vosotros: **descubrís
 - Ustedes/Ellos/Ellas: **descubren**

@@ -9,4 +9,5 @@ to believe
 - Tú: **crees**
 - Él/Ella/Usted: **cree**
 - Nosotros: **creemos**
+- Vosotros: **creéis
 - Ustedes/Ellos/Ellas: **creen**

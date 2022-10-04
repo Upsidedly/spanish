@@ -9,4 +9,5 @@ to break
 - Tú: **rompes**
 - Él/Ella/Usted: **rompe**
 - Nosotros: **rompemos**
+- Vosotros: **rompéis
 - Ustedes/Ellos/Ellas: **rompen**

@@ -9,4 +9,5 @@ to drink
 - Tú: **bebes**
 - Él/Ella/Usted: **bebe**
 - Nosotros: **bebemos**
+- Vosotros: **bebéis
 - Ustedes/Ellos/Ellas: **beben**

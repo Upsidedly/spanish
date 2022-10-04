@@ -9,4 +9,5 @@ to learn
 - Tú: **aprendes**
 - Él/Ella/Usted: **aprende**
 - Nosotros: **aprendemos**
+- Vosotros: **aprendéis
 - Ustedes/Ellos/Ellas: **aprenden**

@@ -9,4 +9,5 @@ to dance
 - Tú: **bailas**
 - Él/Ella/Usted: **baila**
 - Nosotros: **bailamos**
+- Vosotros: **bailáis
 - Ustedes/Ellos/Ellas: **bailan**

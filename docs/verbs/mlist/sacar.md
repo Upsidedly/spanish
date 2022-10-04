@@ -9,6 +9,7 @@ to take out
 - Tú: **sacas**
 - Él/Ella/Usted: **saca**
 - Nosotros: **sacamos**
+- Vosotros: **sacáis
 - Ustedes/Ellos/Ellas: **sacan**
 
 ## Usage

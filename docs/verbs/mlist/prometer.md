@@ -9,4 +9,5 @@ to promise
 - Tú: **prometes**
 - Él/Ella/Usted: **promete**
 - Nosotros: **prometemos**
+- Vosotros: **prometéis
 - Ustedes/Ellos/Ellas: **prometen**
