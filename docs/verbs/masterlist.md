@@ -1,5 +1,5 @@
 # Spanish Verbs Masterlist
-> Generated at 4/9/2022
+> Generated at 11/9/2022
   
 ## A
 - [abrir](verbs/mlist/abrir.md)
@@ -201,6 +201,9 @@
   to break
 
 ## S
+- [saber](verbs/mlist/saber.md)
+  to know
+
 - [sacar](verbs/mlist/sacar.md)
   to take out
 
